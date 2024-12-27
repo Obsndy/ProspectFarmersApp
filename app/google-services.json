@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344519868647",
+    "project_id": "prospect-farmers-app",
+    "storage_bucket": "prospect-farmers-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344519868647:android:dc3faf9c6e715dd6522242",
+        "android_client_info": {
+          "package_name": "com.obsndy.prospectfarmersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344519868647-1eqrka210r1qqpdm5pun76vatq2s6l0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obsndy.prospectfarmersapp",
+            "certificate_hash": "a6383e1022bde7acac7d4c382e374003f9d0b7df"
+          }
+        },
+        {
+          "client_id": "344519868647-e2kalvm1gjti3d34mge3q6k1ggftue39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDYmBY3fr9dhXtqA6WlKXjerIzHAL1Ggs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344519868647-e2kalvm1gjti3d34mge3q6k1ggftue39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
